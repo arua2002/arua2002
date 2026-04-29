@@ -19,9 +19,7 @@
 |------------|--------|
 | 📈 **Общая статистика** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arua2002&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical&bg_color=0d1117) |
 | 🧠 **Мои языки** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arua2002&layout=compact&hide_border=true&theme=radical&bg_color=0d1117) |
-| 🔥 **Стрик (непрерывные дни с кодом)** | ![GitHub Streak](https://streak-stats.demolab.com?user=arua2002&theme=radical&hide_border=true&background=0d1117) |
 | 🏆 **Трофеи GitHub** | ![Trophies](https://github-profile-trophy.vercel.app/?username=arua2002&theme=radical&no-frame=true&row=1&column=7) |
-| 📅 **График активности** | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arua2002&theme=redical&bg_color=0d1117&hide_border=true&area=true&point=FF4500) |
 
 ---
 
