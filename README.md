@@ -1,4 +1,4 @@
-# 🚀 Ruslan Tagirov
+# 🚀 Alkaid
 
 [![GitHub followers](https://img.shields.io/github/followers/arua2002?style=for-the-badge&logo=github&color=0d1117)](https://github.com/arua2002)
 [![Gmail](https://img.shields.io/badge/Gmail-tagirovr277@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tagirovr277@gmail.com)
