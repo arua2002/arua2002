@@ -16,14 +16,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arua2002&theme=radical&hide_border=true&locale=ru" width="49%" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arua2002&theme=radical" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arua2002&theme=radical" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arua2002&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arua2002&theme=radical" width="49%" />
+</p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arua2002&theme=radical&no-frame=true&row=2&column=4)](https://github.com/arua2002)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arua2002&theme=radical&no-frame=true&row=2&column=4" />
+</p>
 
 ### 💡 Девиз
 
