@@ -14,10 +14,6 @@
 
 ### 📊 GitHub Статистика
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arua2002&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arua2002&theme=radical&hide_border=true&locale=ru" width="49%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arua2002&layout=compact&theme=radical&hide_border=true&locale=ru" />
