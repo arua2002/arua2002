@@ -14,10 +14,11 @@
 
 ### 📊 GitHub Статистика
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arua2002&layout=compact&theme=radical&hide_border=true&locale=ru" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arua2002&theme=radical&hide_border=true&locale=ru" width="49%" />
 </p>
+
+
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arua2002&theme=radical&no-frame=true&row=2&column=4)](https://github.com/arua2002)
 
