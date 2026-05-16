@@ -12,7 +12,9 @@
 
 ---
 ### 📊 GitHub Статистика
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flowseal&show_icons=true&hide_border=true&count_private=true&locale=ru&theme=bear&include_all_commits=true&disable_animations=false&custom_title=Статистика%20GitHub%20пользователя%20Flowseal&number_format=long&hide=stars,issues,prs,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</p>
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arua2002&theme=radical&no-frame=true&row=2&column=4)](https://github.com/arua2002)
 
 ### 💡 Девиз
